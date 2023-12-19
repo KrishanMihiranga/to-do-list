@@ -10,6 +10,10 @@ This simple To-Do App is built using HTML, CSS, and JavaScript. It allows users 
 - Store data locally using browser's local storage
 - Responsive design for various screen sizes
 
+## Live Site
+
+Visit the live site: [To-Do App Live](https://krishanmihiranga.github.io/to-do-list/)
+
 ## Getting Started
 
 1. Clone the repository to your local machine:
