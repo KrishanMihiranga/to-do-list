@@ -15,4 +15,7 @@ This simple To-Do App is built using HTML, CSS, and JavaScript. It allows users 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/todo-app-localstorage.git
+   git clone https://github.com/KrishanMihiranga/to-do-list.git
+   ```
+2. Open `index.html` in your web browser.
+3. Interact with the To-Do App to manage your tasks.
